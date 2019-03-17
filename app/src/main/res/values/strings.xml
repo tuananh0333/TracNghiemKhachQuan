@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TracNghiemKhachQuan</string>
+    <string name="btnKetThuc">Kết thúc</string>
+    <string name="btnBack">&lt;</string>
+    <string name="btnNext">&gt;</string>
+    <string name="right">Đúng</string>
+    <string name="wrong">Sai</string>
+    <string name="ketqua">Kết Quả</string>
+    <string name="btnThoat">Thoát</string>
+    <string name="a1">Cau 1</string>
+    <string name="a2">Cau 2</string>
+    <string name="a3">Cau 3</string>
+    <string name="a4">Cau 4</string>
+    <string name="a5">Cau 5</string>
+
+    <string-array name="spinner_default">
+        <item>option 1</item>
+        <item>option 2</item>
+        <item>option 3</item>
+        <item>option 4</item>
+        <item>option 5</item>
+    </string-array>
+</resources>
